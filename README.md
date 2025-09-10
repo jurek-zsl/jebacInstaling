@@ -2,15 +2,13 @@
 
 Chrome and Firefox extension for auto completing instaling.pl questions
 
-> [!WARNING]
-> Extension might bug or not work sometimes, instaling.pl is shit and not all words have .mp3 files, try to use it on newly started session only and don't refresh page while doing session. If word isn't showing or the wrong one shows, reinstall extension and CTRL+Shift+R instaling.pl page. ALSO don't submit and fill answers fast cause it might also bug.
-
-> [!NOTE]
-> Sometimes words don't have .mp3 files so answers wouldn't be found, keep that in mind.
-
 ## ✨Features
 
-- Automatically fetches, displays and pastes correct answer word for instaling.pl questions.
+- Automatically fetches and displays the correct answer for instaling.pl questions.
+- Auto-pastes answers into the answer field when found.
+- UI window with status, progress, last answer, and refetch/fill buttons.
+- Manual refetch and fill options to recover from bugs or missing answers.
+- Option to enable/disable auto pasting.
 
 ## ⚙️How it Works
 
@@ -21,20 +19,21 @@ Chrome and Firefox extension for auto completing instaling.pl questions
 
 ## 📥Installation
 
-If you use chrome-based browser download jebacInstaling.zip from `Releases`, else download jebacInstaling.xpi
+**Chrome:**
+1. Download `jebacInstaling.zip` from Releases.
+2. Go to `chrome://extensions`.
+3. Enable "Developer mode" (top right).
+4. Drag & drop the `.zip` file, then select "Keep".
 
-Chrome:
-1. Open Chrome and go to `chrome://extensions`.
-2. Enable "Developer mode" (top right).
-3. Drag & Drop .zip file then select keep.
-
-Firefox:
-1. Open Firefox and go to `about:addons`
-2. Drag & Drop .xpi file and select install.
+**Firefox:**
+1. Download `jebacInstaling.xpi` from Releases.
+2. Go to `about:addons`.
+3. Drag & drop the `.xpi` file and click "Install".
 
 ## 📋Usage
 
-- Navigate to instaling.pl and start your session.
-- The window will appear on page with answer and refetch button.
-- When word is found it will autopaste correct answer.
-- If it found wrong word or didn't find at all click refetch multiple times.
+- Navigate to instaling.pl and start a session.
+- The extension window appears with answer, status, and controls.
+- The correct answer auto-fills when available.
+- If the answer is incorrect or missing, click "Refetch list" or "Fill now" multiple times.
+- You can disable auto-paste via the checkbox if needed.
