@@ -1,20 +1,32 @@
 {
   "manifest_version": 3,
   "name": "jebacInstaling",
-  "version": "1.0",
+  "version": "1.1",
+  "description": "Auto-pastes the next Instaling answer and shows a small floating box on the page.",
   "permissions": [
-    "activeTab",
     "scripting"
   ],
   "host_permissions": [
     "https://instaling.pl/*"
   ],
   "action": {
-    "default_popup": "popup.html",
     "default_icon": {
       "16": "icon.png",
       "48": "icon.png",
       "128": "icon.png"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://instaling.pl/*"],
+      "js": ["contentScript.js"],
+      "run_at": "document_idle"
+    }
+  ],
+    "browser_specific_settings": {
+    "gecko": {
+      "id": "jebacinstaling@jurekzsl.lol",
+      "strict_min_version": "109.0"
     }
   }
 }
