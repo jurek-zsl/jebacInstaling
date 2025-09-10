@@ -2,6 +2,9 @@
 
 Chrome extension for auto completing instaling.pl questions
 
+> [!WARNING]
+> Extension might bug or not work sometimes, instaling.pl is shit and not all words have .mp3 files, try to use it on newly started session only and don't refresh page while doing session. If word isn't showing or the wrong one shows, reinstall extension and CTRL+Shift+R instaling.pl page.
+
 ## ✨Features
 
 - Automatically fetches and displays the next answer word for instaling.pl questions.
