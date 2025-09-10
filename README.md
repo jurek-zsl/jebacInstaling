@@ -5,6 +5,9 @@ Chrome and Firefox extension for auto completing instaling.pl questions
 > [!WARNING]
 > Extension might bug or not work sometimes, instaling.pl is shit and not all words have .mp3 files, try to use it on newly started session only and don't refresh page while doing session. If word isn't showing or the wrong one shows, reinstall extension and CTRL+Shift+R instaling.pl page. ALSO don't submit and fill answers fast cause it might also bug.
 
+> [!NOTE]
+> Sometimes words don't have .mp3 files so answers wouldn't be found, keep that in mind.
+
 ## ✨Features
 
 - Automatically fetches, displays and pastes correct answer word for instaling.pl questions.
@@ -35,6 +38,3 @@ Firefox:
 - The window will appear on page with answer and refetch button.
 - When word is found it will autopaste correct answer.
 - If it found wrong word or didn't find at all click refetch multiple times.
-
-> [!NOTE]
-> Sometimes words don't have .mp3 files so answers wouldn't be found, keep that in mind.
