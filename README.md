@@ -40,5 +40,5 @@ Chrome and Firefox extension for auto completing instaling.pl questions
 
 ## ✅Versions
 
-- v1.1 - A lot of bugs. Contains not all words. Mutliple issues.
-- v1.2 - Stable. Contains all words you have given by a teacher. No issues has been found. 
+- (v1.1)[https://github.com/jurek-zsl/jebacInstaling/releases/tag/v1.2] - A lot of bugs. Contains not all words. Mutliple issues.
+- (v1.2)[https://github.com/jurek-zsl/jebacInstaling/releases/tag/RELEASE] - Stable. Contains all words you have given by a teacher. No issues has been found. 
