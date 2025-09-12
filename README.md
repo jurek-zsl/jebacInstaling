@@ -13,9 +13,8 @@ Chrome and Firefox extension for auto completing instaling.pl questions
 ## ⚙️How it Works
 
 1. The extension queries the currently active tab for the `child_id` parameter.
-2. It fetches the next question's word ID from instaling.pl.
-3. Retrieves the answer word using the word ID.
-4. Displays the word in the extension popup and enables a button to auto-fill the answer field.
+2. It fetches the list of words assigned for current user from instaling.pl.
+3. It shows current polish word with translation and auto completes it into the text box. 
 
 ## 📥Installation
 
