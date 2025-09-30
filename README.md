@@ -18,16 +18,8 @@ Chrome and Firefox extension for auto completing instaling.pl questions
 
 ## 📥Installation
 
-**Chrome:**
-1. Download `jebacInstaling.zip` from Releases.
-2. Go to `chrome://extensions`.
-3. Enable "Developer mode" (top right).
-4. Drag & drop the `.zip` file, then select "Keep".
-
-**Firefox:**
-1. Download `jebacInstaling.xpi` from Releases.
-2. Go to `about:addons`.
-3. Drag & drop the `.xpi` file and click "Install".
+[![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Install-blue?logo=google-chrome&logoColor=white)]()
+[![Firefox Add-ons](https://img.shields.io/badge/Firefox%20Add--ons-Install-orange?logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/jebacinstaling/)
 
 ## 📋Usage
 
