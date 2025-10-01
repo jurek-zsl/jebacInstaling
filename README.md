@@ -18,7 +18,7 @@ Chrome and Firefox extension for auto completing instaling.pl questions
 
 ## 📥Installation
 
-[![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Install-blue?logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/jebacinstaling/ddkjiahejlhfcafbddmgiahcphecmpfh)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Install-blue?logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/jebacinstaling/bffkngclimjbnbklboobnfifmdmiopli)
 [![Firefox Add-ons](https://img.shields.io/badge/Firefox%20Add--ons-Install-orange?logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/jebacinstaling/)
 
 ## 📋Usage
