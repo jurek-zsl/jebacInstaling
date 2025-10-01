@@ -14,7 +14,10 @@ Chrome and Firefox extension for auto completing instaling.pl questions
 
 1. The extension queries the currently active tab for the `child_id` parameter.
 2. It fetches the list of words assigned for current user from instaling.pl.
-3. It shows current polish word with translation and auto completes it into the text box. 
+3. It shows current polish word with translation and auto completes it into the text box.
+
+> [!WARNING]
+> [instaling.pl](https://instaling.pl) has been made that we're not able to fetch all words. Because of that 3%±2 of words are not available in each word list.
 
 ## 📥Installation
 
@@ -32,4 +35,4 @@ Chrome and Firefox extension for auto completing instaling.pl questions
 ## ✅Versions
 
 - [v1.1](https://github.com/jurek-zsl/jebacInstaling/releases/tag/v1.2) - A lot of bugs. Contains not all words. Mutliple issues.
-- [v1.2](https://github.com/jurek-zsl/jebacInstaling/releases/tag/RELEASE) - Stable. Contains all words you have given by a teacher. No issues has been found. 
+- [v1.2](https://github.com/jurek-zsl/jebacInstaling/releases/tag/RELEASE) - Stable. Contains all words you have given by a teacher. No issues has been found. Not full lists (3-5% of words are not available)
