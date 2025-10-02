@@ -1,9 +1,11 @@
 {
   "manifest_version": 3,
   "name": "jebacInstaling",
-  "version": "1.1",
+  "version": "1.4",
   "description": "Auto-pastes the next Instaling answer and shows a small floating box on the page.",
-  "permissions": [],
+  "permissions": [
+    "scripting"
+  ],
   "host_permissions": [
     "https://instaling.pl/*"
   ],
@@ -30,3 +32,4 @@
     }
   }
 }
+
