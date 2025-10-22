@@ -37,6 +37,11 @@ Chrome and Firefox extension for auto completing instaling.pl questions
 - If the answer is incorrect or missing, click "Refetch list" or "Fill now" multiple times.
 - You can disable auto-paste via the checkbox if needed.
 
+## ✨Star the project
+![GitHub Repo stars](https://img.shields.io/github/stars/jurek-zsl/jebacInstaling)
+<br>
+If you find **jebacInstaling** helpful, please consider giving it a star on GitHub to help others discover it!
+
 ## ✅Versions
 
 - [v1.1](https://github.com/jurek-zsl/jebacInstaling/releases/tag/v1.2) - A lot of bugs. Contains not all words. Mutliple issues.
