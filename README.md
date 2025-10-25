@@ -21,6 +21,9 @@ Chrome and Firefox extension for auto completing instaling.pl questions
 
 ## 📥Installation
 
+> [!TIP]
+> I really recommend installing extension only from `Chrome Web Store` and `Firefox Add-ons`.
+
 [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Install-blue?logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/jebacinstaling/bffkngclimjbnbklboobnfifmdmiopli) [![Firefox Add-ons](https://img.shields.io/badge/Firefox%20Add--ons-Install-orange?logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/jebacinstaling/)
 <br>
 ![Chrome Web Store Last Updated](https://img.shields.io/chrome-web-store/last-updated/bffkngclimjbnbklboobnfifmdmiopli) ![Firefox Last Updated](https://img.shields.io/badge/dynamic/regex?label=last%20updated&url=https%3A%2F%2Faddons.mozilla.org%2Fen-US%2Ffirefox%2Faddon%2Fjebacinstaling%2Fversions%2F&search=Latest%20version%5B%5Cs%5CS%5D%2A%3FReleased%5Cs%2B%28%5BA-Za-z%5D%2B%5Cs%2B%5Cd%7B1%2C2%7D%2C%5Cs%2B%5Cd%7B4%7D%29&replace=%241)
